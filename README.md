@@ -1,4 +1,6 @@
 # Enterprise Application Development App
-Chayapol Moemeng  
-Chayapam Suesawatwanich  
-PHANUWAT SIKHARESTRAKUL
+- Chayapol Moemeng  
+- Chayapam Suesawatwanich  
+- PHANUWAT SIKHARESTRAKUL  
+- Thitare Nimanong  
+
